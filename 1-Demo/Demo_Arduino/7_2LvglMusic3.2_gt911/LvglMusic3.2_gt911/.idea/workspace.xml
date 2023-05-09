@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a57ab86-a5b1-4167-93a9-c8510adb77fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="2HRrck0MQL9tuFsadN6pjwL0Z7G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a57ab86-a5b1-4167-93a9-c8510adb77fc" name="Default Changelist" comment="" />
+      <created>1668258818920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668258818920</updated>
+      <workItem from="1668258820111" duration="54115000" />
+      <workItem from="1668406014934" duration="2312000" />
+      <workItem from="1673702017238" duration="1314000" />
+      <workItem from="1673705440669" duration="16000" />
+      <workItem from="1673705466384" duration="20471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1030" y="254" width="424" height="491" key="FileChooserDialogImpl" timestamp="1668407444408">
+      <screen x="74" y="27" width="2346" height="939" />
+    </state>
+    <state x="1030" y="254" width="424" height="491" key="FileChooserDialogImpl/74.27.2346.939@74.27.2346.939" timestamp="1668407444408" />
+    <state x="813" y="42" width="1104" height="923" key="find.popup" timestamp="1673776369291">
+      <screen x="74" y="27" width="2342" height="938" />
+    </state>
+    <state x="654" y="43" width="866" height="879" key="find.popup/74.27.1840.895@74.27.1840.895" timestamp="1668365358567" />
+    <state x="812" y="201" width="866" height="586" key="find.popup/74.27.2342.935@74.27.2342.935" timestamp="1668319288228" />
+    <state x="813" y="42" width="1104" height="923" key="find.popup/74.27.2342.938@74.27.2342.938" timestamp="1673776369291" />
+    <state x="814" y="43" width="1105" height="926" key="find.popup/74.27.2346.942@74.27.2346.942" timestamp="1673705505513" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lv_demos.h</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
