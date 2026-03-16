@@ -1,3 +1,5 @@
+# AKA CYD
+
 Docs
 ![3 2](https://github.com/kpeeem/3.2inch_ESP32-2432S032/assets/9886393/2f76bab4-da17-4765-aa2f-cd417e99cc0a)
 [ESP32-2432S032 Specifications-EN.pdf](https://github.com/kpeeem/3.2inch_ESP32-2432S032/files/11435228/ESP32-2432S032.Specifications-EN.pdf)
